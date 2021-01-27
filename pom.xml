@@ -12,6 +12,7 @@
         <module>com.monsss.designpatterns</module>
         <module>algorithm</module>
         <module>testmodule</module>
+        <module>document</module>
     </modules>
 
 
