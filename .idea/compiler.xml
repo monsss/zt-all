@@ -6,13 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="document" />
+        <module name="designpatterns" />
+        <module name="testmodulejdk13" />
+        <module name="testmodulejdk15" />
         <module name="algorithm" />
+        <module name="testmodulejdk14" />
         <module name="testmodule" />
+        <module name="document" />
+        <module name="testmodulejdk11" />
+        <module name="javarepo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="designpatterns" target="1.5" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>

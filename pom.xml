@@ -9,10 +9,15 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>com.monsss.designpatterns</module>
+        <module>designpatterns</module>
         <module>algorithm</module>
         <module>testmodule</module>
         <module>document</module>
+        <module>javarepo</module>
+        <module>testmodulejdk11</module>
+        <module>testmodulejdk15</module>
+        <module>testmodulejdk13</module>
+        <module>testmodulejdk14</module>
     </modules>
 
 
